@@ -1,3 +1,6 @@
+Duplicate of  https://github.com/jina-jyl/jupyter.git
+
+
 # Jupyter Demos
 
 A collection of Jupyter notebooks demonstraing video technologies.
